@@ -1,5 +1,7 @@
 #### Monday - 2018/11/26
 
+[REST with Spring Tutorial](https://www.baeldung.com/rest-with-spring-series)
+
 [generator-rest](https://www.npmjs.com/package/generator-rest)
 
 [Javascript Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures)
