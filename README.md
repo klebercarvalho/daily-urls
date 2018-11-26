@@ -1,5 +1,7 @@
 #### Monday - 2018/11/26
 
+[generator-rest](https://www.npmjs.com/package/generator-rest)
+
 [Javascript Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures)
 
 [C10k problem](https://en.wikipedia.org/wiki/C10k_problem)
