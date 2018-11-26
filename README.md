@@ -1,5 +1,7 @@
 #### Monday - 2018/11/26
 
+[https://www.baeldung.com/rx-java](https://www.baeldung.com/rx-java)
+
 [REST with Spring Tutorial](https://www.baeldung.com/rest-with-spring-series)
 
 [generator-rest](https://www.npmjs.com/package/generator-rest)
