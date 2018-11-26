@@ -1,5 +1,16 @@
 #### Monday - 2018/11/26
 
+[Javascript Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures)
+
+[C10k problem](https://en.wikipedia.org/wiki/C10k_problem)
+
+[Nginx wikipedia](https://en.wikipedia.org/wiki/Nginx/)
+
+[Introduction to Microservices - Nginx](https://www.nginx.com/blog/introduction-to-microservices/)
+
+[Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
+
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ecs/?nc1=f_ls)
 
