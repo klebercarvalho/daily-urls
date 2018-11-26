@@ -1,2 +1,2 @@
-# Daily-learning
-Daily Learning
+# daily-learning
+daily Learning
