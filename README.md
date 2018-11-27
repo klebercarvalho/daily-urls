@@ -1,5 +1,12 @@
 #### Tuesday - 2018/11/27
 
+
+[11 dicas para aumentar a conversão no seu site](https://www.hostgator.com.br/blog/dicas-para-aumentar-a-conversao-no-site/)
+
+[7 Ways to Become a Superstar at Work Without Going Back to School](https://www.scienceofpeople.com/alternatives-to-college/)
+
+[Node.js: Simple TCP Server & Client and Promisify the Client](https://techbrij.com/node-js-tcp-server-client-promisify)
+
 [TCP Socket Programming in Node.js](https://www.hacksparrow.com/tcp-socket-programming-in-node-js.html)
 
 [Risingstack - Advanced Node.js Tutorials](https://blog.risingstack.com/tag/advanced-node-js-tutorials/)
