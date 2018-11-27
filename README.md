@@ -1,3 +1,13 @@
+#### Tuesday - 2018/11/27
+
+[TCP Socket Programming in Node.js](https://www.hacksparrow.com/tcp-socket-programming-in-node-js.html)
+
+[Risingstack - Advanced Node.js Tutorials](https://blog.risingstack.com/tag/advanced-node-js-tutorials/)
+
+[Risingstack - Node.js Tutorials for Beginners](https://blog.risingstack.com/tag/node-js-tutorials-for-beginners/)
+
+node js project directory structure
+
 #### Monday - 2018/11/26
 
 [The Reactive Manifesto](https://www.reactivemanifesto.org/)
