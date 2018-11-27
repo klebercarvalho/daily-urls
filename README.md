@@ -2,7 +2,7 @@
 
 [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
-[https://www.baeldung.com/rx-java](https://www.baeldung.com/rx-java)
+[Introduction to RxJava](https://www.baeldung.com/rx-java)
 
 [REST with Spring Tutorial](https://www.baeldung.com/rest-with-spring-series)
 
