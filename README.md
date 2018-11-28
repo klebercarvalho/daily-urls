@@ -1,5 +1,6 @@
 #### Tuesday - 2018/11/27
 
+[Criando APIs com NodeJs - Aula 21: Atualizando um produto](https://www.youtube.com/watch?v=UR0G1v6EiOc&index=21&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
 
 [11 dicas para aumentar a conversão no seu site](https://www.hostgator.com.br/blog/dicas-para-aumentar-a-conversao-no-site/)
 
