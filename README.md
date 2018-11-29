@@ -1,8 +1,7 @@
-
-
 #### Thursday - 2018/11/29
 
-Nginx http route
+Nginx http route monitor
+php http route monitor
 
 #### Wednesday - 2018/11/28
 
