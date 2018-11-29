@@ -11,6 +11,14 @@ Javascript bind
 
 Database index
 
+#### Thursday - 2018/11/29
+
+Nginx http route
+
+#### Wednesday - 2018/11/28
+
+WSO2 SP Summit 2018
+
 #### Tuesday - 2018/11/27
 
 [Criando APIs com NodeJs - Aula 21: Atualizando um produto](https://www.youtube.com/watch?v=UR0G1v6EiOc&index=21&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
