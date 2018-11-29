@@ -1,15 +1,4 @@
-#### TO-DO
-Test Coverage
 
-Javascript Bind
-
-Socket
-
-Web Socket
-
-Javascript bind
-
-Database index
 
 #### Thursday - 2018/11/29
 
