@@ -1,3 +1,7 @@
+#### Thursday - 2018/12/13
+
+reasonml vs javascript
+
 #### Thursday - 2018/11/29
 
 Nginx http route monitor
