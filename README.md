@@ -1,27 +1,35 @@
 #### Friday - 2018/12/14
 
 Injeção de Dependências e Inversão de controle com Exemplos
+
 https://medium.com/@silvioper/inje%C3%A7%C3%A3o-de-depend%C3%AAncias-e-invers%C3%A3o-de-controle-com-exemplos-aa95f41c9f11
 
 Entenda a injeção de dependência nos frameworks MVC
+
 http://blog.caelum.com.br/ioc-e-di-para-frameworks-mvc/
 
 Dependências (Direta, IoC e Injeção de Dependência)
+
 https://www.youtube.com/watch?v=A_rPxoNO3-c&t=45s
 
 Dependência direta (Com Jest e Mock)
+
 https://www.youtube.com/watch?v=73dMSQQ2Abg
 
 Injeção de Dependências
+
 https://www.youtube.com/watch?v=TOqUYoGzFtQ
 
 Injeção de dependência: Aumente a testabilidade do seu código
+
 https://www.youtube.com/watch?v=L_Hp97n2als&t=398s
 
 Transformando sua arquitetura com Clean Architecture
+
 https://www.infoq.com/br/presentations/transformando-sua-arquitetura-com-clean-architecture
 
 Microservice Testing
+
 https://martinfowler.com/articles/microservice-testing/
 
 #### Thursday - 2018/12/13
